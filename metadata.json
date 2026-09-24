@@ -1,0 +1,8 @@
+{
+  "name": "إحصائيات انتخابات المغرب 2026",
+  "description": "منصة تفاعلية بالدارجة المغربية لإحصائيات انتخابات 2026: نسب المشاركة، خريطة الجهات، نتائج الأحزاب، وسيناريوهات التحالفات والدوائر الانتخابية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
